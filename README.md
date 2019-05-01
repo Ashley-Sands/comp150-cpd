@@ -181,8 +181,14 @@ I also snaped at someone for deleting somones work so they could skip the dialog
 
 
 ## Week 11 [8 - 14 Apr]
+It been a real hard  week on the game project, its the final push now. I feels as if the is starting to fall apart abit, i think me and jackob left the refactoring a liltle to late.
+I feel that we dident allocate enought time for the refactoring an we left it to late, but there was lots of other stuff that we needed to do first.
+Its been have had to really rush the last few bits as a teams its to be honest is not been a nice experance, but we had to get done. Next time we need to make shore that all the levels get updated as we added new featchers and components insted of just make shore it works in only one of the levels and leave the rest till the end.
 
+But all in all the assment day where fairly well and there was some good feedback to build apon for the next group project.
 
+**Things to work on**
+- Time managerment
 
 
 ## Reflection of the team project
