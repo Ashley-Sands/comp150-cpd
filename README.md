@@ -65,9 +65,9 @@ We also had our first introduction to the unreal engine, and this is something t
 ## Week 12 (10/12/18 to 16/12/18)
 This week we have had to pitch our new game idea, which I created a bit of a small example of the audio system in unreal for and I took a bit of harsh criticism for which was far to be honest but in my defence it was due to my lack of knowledge in unreal engine and C++ which I’m going to have to keep up over the Xmas holidays. I also got talked into presenting the sales numbers for the game for the pitch since I gave them some of my previous research form the investment pitch to increases the slide. Game pitches are a real weak point of mine that I really want to improve, I’m really bad at standing up in front of people and talking and is something that I want to improve on more than any think else. I fell flat on my face in the pitch as I didn’t have time to prepare correctly. I need to learn to talk slower and clear, to not panic when it’s my time to talk and to watch more pitches on YouTube and GDC to identify other areas to improve on, pulse rehearsing more before the pitch will help. 
 
-#Semester Two (comp-130)
+# Semester Two (comp-130)
 
-###### Week -1 to 0 [14 - 27 Jan]
+## Week -1 to 0 [14 - 27 Jan]
 This has been weried couple of weeks, everyones just trying to find there place in the team and learn Unreal.
 Its been hard knowing where to start with the project since we are all so new to unreal.
 The team has turned to me to work out where to start since i have the most experince in game dev and programming
@@ -80,7 +80,7 @@ to spawn the inputs.
 - Team management skills
 - Team communication skills
 
-###### Week 1 [28 - 3 Feb]
+## Week 1 [28 - 3 Feb]
 This week the second sermester has started.
 I still finding unreal to be quite hard to learn iv been finding it hard to get UI blueprint to comuicate with the C++ code.
 I have also solved the audio time isses that we have had in the game, it was fairly had find to find and was located in unexpeted part of the unreal API.
@@ -88,7 +88,7 @@ I have also solved the audio time isses that we have had in the game, it was fai
 ** things to work on **
 - Unreal and C++
 
-###### Week 2 [4 - 10 Feb]
+## Week 2 [4 - 10 Feb]
 
 during the week i had a major argument with another team member over our scrum board, all of our task where hard to understand and un-messuble (they where prity much meaning less). i was only sugesting that we starting using user storys for our task since there are messuble, but the other person was abderment that we dident have to use them because no tutor had told them to. I have a bit of a bad habit for my old profecion where i could tell people where to shove it if they dident like like it and this was the aproch i tock here. I dident work in my faver, althought it ended the argument, i seam to of lost a fair bt of respect in the team.
 Thurermore during the teams PO meeting the user storys came up and rich (our PO) said that user storys are somthink ok but there genrally to big, and they tock this as they are not required at all.
@@ -101,7 +101,7 @@ Later in the week we had group project lecture witch backed me up with the user 
 - team comuication
 
 
-###### Week 3 [11 - 17 Frb]
+## Week 3 [11 - 17 Frb]
 This week out group project lecture was on managering conflict, this is somthink i fell that i need to really work on and do more research on. Iv been finding it hard to find a midle ground with some of the conflicts iv had so far (mainly when i know there wrong) iv started taking the aproch of 'Fine you can learn it the hard way' which isent great for my either since i also have to do it the hard way untill they learn. There must be a better way to resove these conflicts.
 
 Affter the PO meeting (team feedback) the team wants to kill each other. Also it has been sugested that we should start doing a burn down chart and a change log for the project to help us keep track.
@@ -116,7 +116,7 @@ Iv also been working on a document for setting up each component of the game.
 - team comuication
 - documenting game compoents
 
-###### Week 4 [18 - 24 Feb]
+## Week 4 [18 - 24 Feb]
 This week i spent a lot of time working with the designers to start pulling the game together. We have now pulled together our MVP and its nice to see all the work that the programmers have done starting to come together and work farly well, without any major issuses.
 
 Its also be a farly hecktic week with git confilts ect... and i have been palled around a fair bit to help the team with there git issues, but i would much prefer that they asked than brake out game. Theres been some hard lessons learnt by the team.
@@ -124,7 +124,7 @@ Its also be a farly hecktic week with git confilts ect... and i have been palled
 ** Things to work on **
 - ???
 
-###### Week 5 [25 - 3 Mar]
+## Week 5 [25 - 3 Mar]
 This week we had our enginering essay question reviwes which whent OK i guess. But i feel that its going to be a hard since most of the research is designe orintated and the question is very broad. i feel that i need to narrow it down big time and to be honest its starting to strees me out a bit, but i'll get there with it.
 
 Last in the week i snaped at a designer who was ment to be taking controle of the trailer for show and tell. No one know who was doing what and what need to be done and it friday, due for wedsnesday. I really should of aproched the situration in a much carmer manager. Next time i be more involded in the process much erlyer, i tryed to avoid involment in the trialer since im not mark on it, but maybe thats a bit unfair.
@@ -133,7 +133,7 @@ Last in the week i snaped at a designer who was ment to be taking controle of th
 - narrowing down a research question
 - team conflict
 
-###### Week 6 [4 - 10 Mar]
+## Week 6 [4 - 10 Mar]
 The team manged to get the trailer compleat just in time.
 
 I have become farly stressed with the enginering essay research presentation i dont feel that my question is fouced enoght and im finding it had to get m head around my research since its all so broad althoght i have narrowed y question down to game music only it still seams very board.
@@ -142,7 +142,7 @@ I have become farly stressed with the enginering essay research presentation i d
 - Team management and team time managerment
 - Research
 
-###### Week 7 [11 - 17 Mar]
+## Week 7 [11 - 17 Mar]
 This week we had to present out enginering essay research which when farly well to be honest. This was the first time i had created a presentation using LATEX and i leanted that i should of had notes in a txt document so i dient have to keep looking at the sides, since LATEX doesent show any notes on the other screen. I also learnt that i should of just included my ref on the sides that they where releated to insted of have all my ref in a refs side at the end of the presentation.
 I also re-wote the audio system for our game, from the ground up. At first i tryed to just rework it but it turns out that its was going to be more work trying to re-work it the re-writing it.
 We also had Show and tell this week, which was good a day.
@@ -150,7 +150,7 @@ We also had Show and tell this week, which was good a day.
 ** Things to work on **
 - Research presentations
 
-###### Week 8 [18 - 24 Mar]
+## Week 8 [18 - 24 Mar]
 This week we had to submit our final enginering essay, which i was not happy with the quility of my work. The strees of the essay has burnt me out big time and i have lost my mormentum on the game project. Althout i have been much more oginized whit my note taking from pappers, i have fell that the subject that i picked was to broad and i need to learn how to focus my research question on a more surspific thing in the future.
 Also this week i was approched by a designer who has decided that we sould have sound effect clips play when an input note is pressed correctly. i advised them that i was a bit late for this but they insisted, so i just got on with it since was a fairly easy task now we have a new audio system and i was feeling down and burnt out.
 
@@ -159,7 +159,7 @@ Also this week i was approched by a designer who has decided that we sould have 
 - focusing a research question
 - resolving conflicit
 
-###### Week 9 [25 - 31 Mar]
+## Week 9 [25 - 31 Mar]
 At the start of the week i was still feeling burnt out, i starting to think that i am procastinating far to much and it geting me down since am not achiving anythink.
 I started working on the save system which i made a bit of a mess of, since i wasent concentrating properly due to burn out.
 When i whent home i had another look at the save system and cleaned it and finaly got it working correctly. By the end of the night i stop feeling so burnt out.
@@ -169,7 +169,7 @@ At the end of the week i started on my SDL project and i stoped feeling so burnt
 - anti procrastination
 
 
-###### Week 10 [1 - 7 Apr]
+## Week 10 [1 - 7 Apr]
 Its been a farly hard week with the game project. To Start with me a jakob have had to continue where we left off last week with refactoring the input notes, once we had got the basic notes in i have left jakob to implement the rest while i got in the twin notes, which was changlling. 
 Also at the start of the week we learnt that we have major preformance issues on mobile devices, it seamed to of put the team into a panic trying to guess what the issuse was even thought i kept telling them we'll work it out. i found it to be quite stressfull with evey one guessing ('i bet it was this...' or 'i bet its because i done that...' ect...) while i was trying to figer it it. It turns out that it was due to cassaus having far to many virts (aprox 300,000). This was somethink that nobody guessed and was the least expeted, i have learnt that you MUST do frequent testing on the target platforms, since this could of been avoided when the cassaus proxy modle was switch to the skelital mesh.
 I also snaped at someone for deleting somones work so they could skip the dialogue. They assumed that git would give them a choose which version of the file they should keep, but this only happens if two people have changed the file in the same time period, and i was not shore it that was the case and its a bad assumption. On a refelection, git probaly has a way you can revet a single file back to the last version but im unshore. I should do more research into git, i case somthink like this happens again.
@@ -180,23 +180,23 @@ I also snaped at someone for deleting somones work so they could skip the dialog
 - Git
 
 
-###### Week 11 [8 - 14 Apr]
+## Week 11 [8 - 14 Apr]
 
 
 
 
-##### Reflection of the team project
+## Reflection of the team project
 
 One thing that i have learnt from the group development project is that somone has to take controle/leadership of the project, idealy i think it sould be the persion how's idear the game is but failing that somone else needs to it.
 
-###### What Whent Well?
+## What Whent Well?
 * Programming work was conducted in a timly maner
 
 * Version controle has been manager well, by the mantainers. we have had very little issuse since the maintainers have always been on hand if someone was unshore. We only had one miner issue of lossing work and it resolved easerly by just reveting the project.
 
 * 
 
-###### What could of been done better?
+## What could of been done better?
 * The scrum master kept changing during the erly stages of the project, which made it hard to keep track of the project
 
 * Comunicating the game ider, it only seams like one person has a vison for the game and its not been comunicated properly among the team.
@@ -217,7 +217,7 @@ One thing that i have learnt from the group development project is that somone h
 
 * The project need top be tested more frequently on out target platforms
 
-###### Overall conclution
+## Overall conclution
 
 ** Things to work on **
 - Team communication
