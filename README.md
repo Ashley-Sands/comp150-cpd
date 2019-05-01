@@ -85,7 +85,7 @@ This week the second sermester has started.
 I still finding unreal to be quite hard to learn iv been finding it hard to get UI blueprint to comuicate with the C++ code.
 I have also solved the audio time isses that we have had in the game, it was fairly had find to find and was located in unexpeted part of the unreal API.
 
-** things to work on **
+**things to work on**
 - Unreal and C++
 
 ## Week 2 [4 - 10 Feb]
@@ -95,7 +95,7 @@ Thurermore during the teams PO meeting the user storys came up and rich (our PO)
 
 Later in the week we had group project lecture witch backed me up with the user storys, now they get it since they have been told by the module leader. We have had to redo out scrum board as a result, but atleast we can now make sence of whats going on.
 
-** Things to work on **
+**Things to work on**
 - team conflit
 - team managerment
 - team comuication
@@ -110,7 +110,7 @@ Also it started feeling that its only me and jakob doing any work. We now have m
 
 Iv also been working on a document for setting up each component of the game.
 
-** Things to work on **
+**Things to work on**
 - managing team conflit
 - team managerment
 - team comuication
@@ -121,7 +121,7 @@ This week i spent a lot of time working with the designers to start pulling the 
 
 Its also be a farly hecktic week with git confilts ect... and i have been palled around a fair bit to help the team with there git issues, but i would much prefer that they asked than brake out game. Theres been some hard lessons learnt by the team.
 
-** Things to work on **
+**Things to work on**
 - ???
 
 ## Week 5 [25 - 3 Mar]
@@ -129,7 +129,7 @@ This week we had our enginering essay question reviwes which whent OK i guess. B
 
 Last in the week i snaped at a designer who was ment to be taking controle of the trailer for show and tell. No one know who was doing what and what need to be done and it friday, due for wedsnesday. I really should of aproched the situration in a much carmer manager. Next time i be more involded in the process much erlyer, i tryed to avoid involment in the trialer since im not mark on it, but maybe thats a bit unfair.
 
-** Things to work on **
+**Things to work on**
 - narrowing down a research question
 - team conflict
 
@@ -138,7 +138,7 @@ The team manged to get the trailer compleat just in time.
 
 I have become farly stressed with the enginering essay research presentation i dont feel that my question is fouced enoght and im finding it had to get m head around my research since its all so broad althoght i have narrowed y question down to game music only it still seams very board.
 
-** Things to work on **
+**Things to work on**
 - Team management and team time managerment
 - Research
 
@@ -147,7 +147,7 @@ This week we had to present out enginering essay research which when farly well 
 I also re-wote the audio system for our game, from the ground up. At first i tryed to just rework it but it turns out that its was going to be more work trying to re-work it the re-writing it.
 We also had Show and tell this week, which was good a day.
 
-** Things to work on **
+**Things to work on**
 - Research presentations
 
 ## Week 8 [18 - 24 Mar]
@@ -155,7 +155,7 @@ This week we had to submit our final enginering essay, which i was not happy wit
 Also this week i was approched by a designer who has decided that we sould have sound effect clips play when an input note is pressed correctly. i advised them that i was a bit late for this but they insisted, so i just got on with it since was a fairly easy task now we have a new audio system and i was feeling down and burnt out.
 
 
-** Things to work on **
+**Things to work on**
 - focusing a research question
 - resolving conflicit
 
@@ -165,7 +165,7 @@ I started working on the save system which i made a bit of a mess of, since i wa
 When i whent home i had another look at the save system and cleaned it and finaly got it working correctly. By the end of the night i stop feeling so burnt out.
 At the end of the week i started on my SDL project and i stoped feeling so burnt out! and iv stop procastinating.
 
-** things to work on **
+**things to work on**
 - anti procrastination
 
 
@@ -175,7 +175,7 @@ Also at the start of the week we learnt that we have major preformance issues on
 I also snaped at someone for deleting somones work so they could skip the dialogue. They assumed that git would give them a choose which version of the file they should keep, but this only happens if two people have changed the file in the same time period, and i was not shore it that was the case and its a bad assumption. On a refelection, git probaly has a way you can revet a single file back to the last version but im unshore. I should do more research into git, i case somthink like this happens again.
 
 
-** Things to work on**
+**Things to work on**
 - Frequent Testing
 - Git
 
@@ -219,7 +219,7 @@ One thing that i have learnt from the group development project is that somone h
 
 ## Overall conclution
 
-** Things to work on **
+**Things to work on**
 - Team communication
 - team managerment
 - More testing on target platforms
